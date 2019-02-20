@@ -1,0 +1,17 @@
+
+
+button {
+    background-color: black; 
+}
+
+.form-group {
+    display: flex;
+    margin: 10,10,10,10;
+    justify-content: center;
+}
+
+.btn-primary {
+    display: flex;
+    flex-direction: row;
+    align-content: center;
+}
